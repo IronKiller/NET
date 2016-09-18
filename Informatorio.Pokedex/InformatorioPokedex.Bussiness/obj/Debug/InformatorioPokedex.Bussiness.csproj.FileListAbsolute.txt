@@ -1,0 +1,7 @@
+C:\Users\IronKiller\Desktop\Visual\Informatorio.Pokedex\InformatorioPokedex.Bussiness\bin\Debug\InformatorioPokedex.Bussiness.dll
+C:\Users\IronKiller\Desktop\Visual\Informatorio.Pokedex\InformatorioPokedex.Bussiness\bin\Debug\InformatorioPokedex.Bussiness.pdb
+C:\Users\IronKiller\Desktop\Visual\Informatorio.Pokedex\InformatorioPokedex.Bussiness\bin\Debug\InformatorioPokedex.Data.dll
+C:\Users\IronKiller\Desktop\Visual\Informatorio.Pokedex\InformatorioPokedex.Bussiness\bin\Debug\InformatorioPokedex.Data.pdb
+C:\Users\IronKiller\Desktop\Visual\Informatorio.Pokedex\InformatorioPokedex.Bussiness\obj\Debug\InformatorioPokedex.Bussiness.csprojResolveAssemblyReference.cache
+C:\Users\IronKiller\Desktop\Visual\Informatorio.Pokedex\InformatorioPokedex.Bussiness\obj\Debug\InformatorioPokedex.Bussiness.dll
+C:\Users\IronKiller\Desktop\Visual\Informatorio.Pokedex\InformatorioPokedex.Bussiness\obj\Debug\InformatorioPokedex.Bussiness.pdb

@@ -1,0 +1,5 @@
+C:\Users\IronKiller\Desktop\Visual\Ejer1\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\IronKiller\Desktop\Visual\Ejer1\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\IronKiller\Desktop\Visual\Ejer1\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\IronKiller\Desktop\Visual\Ejer1\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\IronKiller\Desktop\Visual\Ejer1\Ejercicio3\obj\Debug\Ejercicio3.pdb

@@ -1,0 +1,12 @@
+c:\users\administrador\documents\visual studio 2012\Projects\InformatorioPokedex\InformatorioPokedex.Application\bin\Debug\InformatorioPokedex.Application.exe.config
+C:\Users\Informatorio\Desktop\IronKiller\Informatorio.Pokedex\InformatorioPokedex.Application\bin\Debug\InformatorioPokedex.Application.exe.config
+C:\Users\IronKiller\Desktop\Visual\Informatorio.Pokedex\InformatorioPokedex.Application\bin\Debug\InformatorioPokedex.Application.exe.config
+C:\Users\IronKiller\Desktop\Visual\Informatorio.Pokedex\InformatorioPokedex.Application\bin\Debug\InformatorioPokedex.Application.exe
+C:\Users\IronKiller\Desktop\Visual\Informatorio.Pokedex\InformatorioPokedex.Application\bin\Debug\InformatorioPokedex.Application.pdb
+C:\Users\IronKiller\Desktop\Visual\Informatorio.Pokedex\InformatorioPokedex.Application\bin\Debug\InformatorioPokedex.Bussiness.dll
+C:\Users\IronKiller\Desktop\Visual\Informatorio.Pokedex\InformatorioPokedex.Application\bin\Debug\InformatorioPokedex.Data.dll
+C:\Users\IronKiller\Desktop\Visual\Informatorio.Pokedex\InformatorioPokedex.Application\bin\Debug\InformatorioPokedex.Bussiness.pdb
+C:\Users\IronKiller\Desktop\Visual\Informatorio.Pokedex\InformatorioPokedex.Application\bin\Debug\InformatorioPokedex.Data.pdb
+C:\Users\IronKiller\Desktop\Visual\Informatorio.Pokedex\InformatorioPokedex.Application\obj\Debug\InformatorioPokedex.Application.csprojResolveAssemblyReference.cache
+C:\Users\IronKiller\Desktop\Visual\Informatorio.Pokedex\InformatorioPokedex.Application\obj\Debug\InformatorioPokedex.Application.exe
+C:\Users\IronKiller\Desktop\Visual\Informatorio.Pokedex\InformatorioPokedex.Application\obj\Debug\InformatorioPokedex.Application.pdb

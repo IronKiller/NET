@@ -1,0 +1,5 @@
+C:\Users\IronKiller\Desktop\Visual\Informatorio.Pokedex\InformatorioPokedex.Data\bin\Debug\InformatorioPokedex.Data.dll
+C:\Users\IronKiller\Desktop\Visual\Informatorio.Pokedex\InformatorioPokedex.Data\bin\Debug\InformatorioPokedex.Data.pdb
+C:\Users\IronKiller\Desktop\Visual\Informatorio.Pokedex\InformatorioPokedex.Data\obj\Debug\InformatorioPokedex.Data.csprojResolveAssemblyReference.cache
+C:\Users\IronKiller\Desktop\Visual\Informatorio.Pokedex\InformatorioPokedex.Data\obj\Debug\InformatorioPokedex.Data.dll
+C:\Users\IronKiller\Desktop\Visual\Informatorio.Pokedex\InformatorioPokedex.Data\obj\Debug\InformatorioPokedex.Data.pdb
