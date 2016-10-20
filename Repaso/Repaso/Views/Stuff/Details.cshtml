@@ -1,0 +1,50 @@
+﻿@model Repaso.Models.Stuff
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>Stuff</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.NameStuff)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.NameStuff)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.SizeStuff)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.SizeStuff)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.DateStuff)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.DateStuff)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.StuffId }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

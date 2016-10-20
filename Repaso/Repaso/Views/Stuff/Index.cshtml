@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Repaso.Models.Stuff>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>New Employee</title>
+</head>
+<body>
+    
+    <p>
+        @Html.ActionLink("Create New Employee", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NameStuff)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SizeStuff)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateStuff)
+            </th>
+            <th></th>
+        </tr>
+    
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NameStuff)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SizeStuff)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateStuff)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.StuffId }) |
+                @Html.ActionLink("Details", "Details", new { id=item.StuffId }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.StuffId })
+            </td>
+        </tr>
+    }
+    
+    </table>
+</body>
+</html>

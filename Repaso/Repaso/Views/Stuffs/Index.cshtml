@@ -1,7 +1,7 @@
 ﻿@model IEnumerable<Repaso.Models.Stuff>
 
 @{
-    Layout = null;
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
 <!DOCTYPE html>
@@ -14,7 +14,7 @@
 <body>
     
     <p>
-        @Html.ActionLink("Create New", "Create")
+        @Html.ActionLink("New employee", "Create")
     </p>
     <table class="table">
         <tr>
