@@ -1,0 +1,59 @@
+﻿@model Pubs2.Models.Pubs
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    @Styles.Render("~/Content/css")
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>Pubs</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.LicenciaFiscal)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.LicenciaFiscal)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Domicilio)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Domicilio)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.FechaApertura)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.FechaApertura)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Horario)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Horario)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.PubsId }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>
